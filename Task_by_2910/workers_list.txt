@@ -1,0 +1,6 @@
+5 Lang 1050000
+4 Kohenen 150000
+6 Onegin 820
+3 Kirilov 120000
+2 Shatov 90000
+1 Snegirev 520

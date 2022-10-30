@@ -1,0 +1,7 @@
+package org.example;
+
+public class Ball extends SolidOfRevolution {
+    Ball(double radius){
+        super(radius,Math.PI*Math.pow(radius,3)*4/3);
+    }
+}
